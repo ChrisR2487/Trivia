@@ -1,16 +1,3 @@
-/*
-Author: Christopher Roberts
-E-mail: cmr663@psu.edu
-Course: CMPSC 221
-Assigment: Programming Assigment 1
-Due Date: 2/18/2020
-File: Trivia.java
-Purpose: Java app that implements a trivia game using JOptionplane
-Compiler/IDE: IntelliJ IDEA
-Operating System: MS Windows 10
-References: https://www.geeksforgeeks.org/arraylist-in-java/, https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html#listIterator--, https://docs.oracle.com/javase/7/docs/api/javax/swing/JOptionPane.html
- */
-
 import javax.swing.*;
 import java.util.*;
 class Driver {
